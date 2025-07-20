@@ -1,5 +1,13 @@
 # Python-For-Devops 🚀
 Welcome to the **PYTHON-FOR-DEVOPS** repository! This project will be helpfull for you if you are starting your Devops journey and wants to learn the fundaments of python
+## 🤝 Contributing
+to commit and add your cool projects follow this steps:
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b my-new-feature`.
+3. Make your changes and commit them.
+4. Push your branch: `git push origin my-new-feature`.
+5. Submit a pull request!
 ## 📂 Project Structure
 
 The repository is divided into four main folders, each with a specific focus:
@@ -79,12 +87,6 @@ Master Python fundamentals.
 Build and run a Flask web app.
 Integrate APIs and work with data structures.
 Automate backups with Python scripts.
-## 🤝 Contributing
-Fork the repository.
-1. Create a branch (git checkout -b feature-name).
-2. Commit changes (git commit -m "Add feature").
-3. Push and open a Pull Request.
-Follow PEP 8 and add comments where needed.
 ## 📬 Contact
 Questions? Open an issue or email rehanshaikh120703@gmail.com.
 ## ⭐ Star this repo 
