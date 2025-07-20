@@ -1,5 +1,5 @@
 # Python-For-Devops 🚀
-Welcome to the **PYTHON-FOR-DEVOPS** repository! This project will be helpfull for you if you are starting your Devops journey and wants to learn the fundamentals of python
+Welcome to the **PYTHON-FOR-DEVOPS** repository! This project will be helpfull for you if you are starting your Devops journey and wants to learn the fundaments of python
 ## 📂 Project Structure
 
 The repository is divided into four main folders, each with a specific focus:
@@ -16,7 +16,7 @@ The repository is divided into four main folders, each with a specific focus:
 | **applications** | A Flask web app for practical web development.          | `app.py`                                                                                 |
 | **day01**        | Introduces Python basics with examples.                 | `con1.py`, `concepts.py`, `conditionals.py`, `input_output.py`, `project1.py`, `task.py` |
 | **day02**        | Covers API testing, data structures, and a weather app. | `api_test.py`, `data_structs.py`, `project1.py`, `sys_utils.py`, `weather.py`            |
-| **day03**        | Contains a backup system for file management.           | `Backups.py`                                                                              | 
+| **day03**        | Contains a backup system for file management.           | `backup.py`                                                                              | 
 
 ## 🛠️ Setup Instructions
 
@@ -65,7 +65,7 @@ python api_test.py
 # Create a backup of the project:
 ```bash
 cd day03
-python Backups.py
+python backup.py
 ```
 Backups are saved to a designated folder (e.g., backups/).
 
